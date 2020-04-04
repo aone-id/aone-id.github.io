@@ -714,7 +714,13 @@ section.lazy-placeholder:after {
 .cid-rUI2oX3Y6t {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/aoneid-1080x556.png");
+}
+.cid-rUI2oX3Y6t H1 {
+  color: #ff3366;
+}
+.cid-rUI2oX3Y6t H3 {
+  color: #ff7f9f;
 }
 .cid-rUI3O6bjRX {
   padding-top: 60px;
