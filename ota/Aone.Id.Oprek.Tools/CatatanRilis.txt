@@ -1,7 +1,7 @@
 ==================
 [Aone.Id-OprekTools]
 ==================
-Chagelog:
+Changelog:
 
 v0.1 
 *Intal Release
